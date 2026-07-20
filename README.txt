@@ -1,7 +1,7 @@
-#Portfolio
+##Portfolio
 Modern Developer Portfolio showcasing Python, AI/ML, Data Science, Projects, Certificates, Contact Information & Attractive UI Design
 
-# 👋 Hi, I'm Akshay Ravat
+##👋 Hi, I'm Akshay Ravat
 
 🚀 Aspiring Data Science & Frontend Developer
 
@@ -20,10 +20,11 @@ This portfolio showcases my:
 
 - HTML
 - css
+- JS
 
 ---
 
-🚀 Features
+##🚀 Features
 
 - Responsive Design
 - Modern UI
@@ -33,7 +34,7 @@ This portfolio showcases my:
 
 ---
 
-# 📂 Projects
+##📂 Projects
 
 - AI Interview System
 - IPL Data Analysis
@@ -41,13 +42,13 @@ This portfolio showcases my:
 
 ---
 
-# 📜 Certificates
+##📜 Certificates
 
 My completed certifications in programming and technology.
 
 ---
 
-# 🌐 Connect With Me
+##🌐 Connect With Me
 
 LinkedIn :-  https://www.linkedin.com/in/akshay-ravat-770763403/
 GitHub   :-  https://github.com/RavatAkshay
@@ -55,4 +56,4 @@ Instagram:-  https://instagram.com/imakshay_2007
 
 ---
 
-# ⭐ Thank You For Visiting
+##⭐ Thank You For Visiting
