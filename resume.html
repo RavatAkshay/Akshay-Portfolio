@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <a href="index.html" class="back-btn">Back To Home</a>
+    <style>
+    .btn{
+    display:inline-block;
+    padding:12px 25px;
+    margin:10px;
+    background:#0d6efd;
+    color:#fff;
+    text-decoration:none;
+    border-radius:30px;
+    font-weight:bold;
+    transition:.3s;
+    position: fixed;
+    right: 690px;
+    top: 310px;
+    }
+    .view-btn{
+        position: fixed;
+        right: 709px;
+        top: 250px;  
+    }
+    
+    .btn:hover{
+    background:#084298;
+    transform:translateY(-3px);
+    }
+    
+
+    .download-btn{
+    background:#28a745;
+    }
+
+    .download-btn:hover{
+    background:#1f7a33;
+    }
+    .button-box{
+        text-align: center;
+        margin-top: 40px;
+    }
+    .btn{
+        display: inline-block;
+        margin: 10px;
+    }
+    .back-btn{
+        position: fixed;
+        bottom: 30px;
+        right: 25px;
+        background: linear-gradient(135deg, #ff512f, #dd2476);
+        color: white;
+        padding: 14px 26px;
+        border-radius: 50px;
+        text-decoration: none;
+        font-size: 17px;
+        font-weight: bold;
+        box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+        transition: 0.3s;
+        z-index: 1000;
+    }
+
+    </style>
+</head>
+<body>
+    <!-- <a href="#resume" class="btn">Resume</a> -->
+
+    <section id="resume">
+        <div class="button-box">
+
+        <h2>My Resume</h2>
+    
+        <p>Click below to view or download my resume.</p>
+    
+        <a href="pdf/Akshay_Ravat_Data_Analyst_Resume.pdf" target="_blank" class="btn view-btn">
+            View Resume
+        </a>
+    
+        <a href="pdf/Akshay_Ravat_Data_Analyst_Resume.pdf" download class="btn download-btn">
+            Download Resume
+        </a>
+        </div>
+    
+    </section>
+</body>
+</html>
