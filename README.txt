@@ -1,4 +1,4 @@
-# Modern-Portfolio
+#Portfolio
 Modern Developer Portfolio showcasing Python, AI/ML, Data Science, Projects, Certificates, Contact Information & Attractive UI Design
 
 # 👋 Hi, I'm Akshay Ravat
